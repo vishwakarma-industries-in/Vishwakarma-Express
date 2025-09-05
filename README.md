@@ -2,9 +2,9 @@
 
 **The Revolutionary Web Browser for Power Users, Developers, and Enthusiasts**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/vishwakarma/express)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/vishwakarma-industries-in/Vishwakarma-Express)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)](https://github.com/vishwakarma/express)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)](https://github.com/vishwakarma-industries-in/Vishwakarma-Express)
 [![Hardware Optimized](https://img.shields.io/badge/optimized-Dell%20E6440-orange.svg)](docs/PERFORMANCE_GUIDE.md)
 
 > **Vishwakarma Express** pushes the boundaries of what a web browser can be. Built with cutting-edge technology and revolutionary features, it delivers an unparalleled browsing experience that goes far beyond traditional browsers.
@@ -94,7 +94,7 @@
 
 ```bash
 # Download latest release
-wget https://github.com/vishwakarma/express/releases/latest/download/vishwakarma-express.deb
+wget https://github.com/vishwakarma-industries-in/Vishwakarma-Express/releases/latest/download/vishwakarma-express.deb
 
 # Install on Ubuntu/Debian
 sudo dpkg -i vishwakarma-express.deb
@@ -108,8 +108,8 @@ chmod +x vishwakarma-express.AppImage
 
 ```bash
 # Clone repository
-git clone https://github.com/vishwakarma/express.git
-cd vishwakarma-express
+git clone https://github.com/vishwakarma-industries-in/Vishwakarma-Express.git
+cd Vishwakarma-Express
 
 # Install dependencies
 cargo install tauri-cli
@@ -282,16 +282,16 @@ We welcome contributions from the community! Here's how to get started:
 ### Get Involved
 
 - **💬 [Discord Server](https://discord.gg/vishwakarma)** - Real-time chat
-- **📋 [GitHub Discussions](https://github.com/vishwakarma/express/discussions)** - Feature requests
-- **🐛 [Issue Tracker](https://github.com/vishwakarma/express/issues)** - Bug reports
+- **📋 [GitHub Discussions](https://github.com/vishwakarma-industries-in/Vishwakarma-Express/discussions)** - Feature requests
+- **🐛 [Issue Tracker](https://github.com/vishwakarma-industries-in/Vishwakarma-Express/issues)** - Bug reports
 - **📱 [Reddit Community](https://reddit.com/r/vishwakarma)** - User discussions
 
 ### Support
 
-- **📧 Email:** support@vishwakarma.dev
-- **📖 Documentation:** [docs.vishwakarma.dev](https://docs.vishwakarma.dev)
-- **💡 Feature Requests:** [GitHub Issues](https://github.com/vishwakarma/express/issues)
-- **🆘 Help:** [Community Forum](https://forum.vishwakarma.dev)
+- **📧 Email:** support@vishwakarma-industries.in
+- **📖 Documentation:** [docs.vishwakarma-industries.in](https://docs.vishwakarma-industries.in)
+- **💡 Feature Requests:** [GitHub Issues](https://github.com/vishwakarma-industries-in/Vishwakarma-Express/issues)
+- **🆘 Help:** [Community Forum](https://forum.vishwakarma-industries.in)
 
 ## 🗺️ Roadmap
 
@@ -342,7 +342,7 @@ Special thanks to:
 
 **🚀 Ready to experience the future of web browsing?**
 
-[Download Now](https://github.com/vishwakarma/express/releases) • [Documentation](docs/USER_GUIDE.md) • [Community](https://discord.gg/vishwakarma)
+[Download Now](https://github.com/vishwakarma-industries-in/Vishwakarma-Express/releases) • [Documentation](docs/USER_GUIDE.md) • [Community](https://discord.gg/vishwakarma)
 
 **Made with ❤️ by the Vishwakarma Team**
 
