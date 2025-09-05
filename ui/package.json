@@ -1,0 +1,14 @@
+{
+  "name": "vishwakarma-express-ui",
+  "version": "0.1.0",
+  "description": "Vishwakarma Express Browser UI",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3001",
+    "build": "echo 'Build complete - static files ready'",
+    "serve": "python3 -m http.server 8080"
+  },
+  "keywords": ["browser", "servo", "vishwakarma"],
+  "author": "Vishwakarma Industries",
+  "license": "MIT"
+}
